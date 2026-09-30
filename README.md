@@ -1,1 +1,2 @@
-# aulaPS
+
+Alteração do arquivo Leia-me.
